@@ -1,0 +1,155 @@
+/* == Montserrat Font Family Styles == */
+
+
+/* @group Montserrat
+-------------------------------------------------------------- */
+
+/* = Weights Montserrat  
+-------------------------------------------------------------- */
+
+.thin {
+	/* Montserrat Thin = 100 */
+	font-weight: 100;
+	font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+.extralight {
+	/* Montserrat Extra Light = 200 */
+	font-weight: 200;
+	font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+
+.light {
+	/* Montserrat Light = 300 */
+	font-weight: 300;
+	font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+
+.regular {
+	/* Montserrat Regular = 400 */
+	font-weight: 400;
+	font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+
+.medium {
+	/* Montserrat Medium = 500 */
+	font-weight: 500;
+	font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+
+.semibold {
+	/* Montserrat Semi-bold = 600 */
+	font-weight: 600;
+	font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+
+.bold {
+	/* Montserrat Bold = 700 */
+	font-weight: 700;
+	font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+
+.extrabold {
+	/* Montserrat Extra Bold = 800 */
+	font-weight: 800;
+	font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+
+.m-black {
+	/* Montserrat Black = 900 */
+	font-weight: 900;
+	font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+/* @end Montserrat group */
+
+
+/* @group Montserrat Alternates
+-------------------------------------------------------------- */
+/* = Weights Montserrat Alternates  
+-------------------------------------------------------------- */
+
+.thin-alternates {
+	/* Montserrat Alternates Thin = 100 */
+	font-weight: 100;
+	font-family: "Montserrat Alternates", "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+.extralight-alternates {
+	/* Montserrat Alternates Extra Light = 200 */
+	font-weight: 200;
+	font-family: "Montserrat Alternates", "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+.light-alternates {
+	/* Montserrat Alternates Light = 300 */
+	font-weight: 300;
+	font-family: "Montserrat Alternates", "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+.regular-alternates {
+	/* Montserrat Alternates Regular = 400 */
+	font-weight: 400;
+	font-family: "Montserrat Alternates", "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+.medium-alternates {
+	/* Montserrat Alternates Medium = 500 */
+	font-weight: 500;
+	font-family: "Montserrat Alternates", "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+.semibold-alternates {
+	/* Montserrat Alternates Semi-bold = 600 */
+	font-weight: 600;
+	font-family: "Montserrat Alternates", "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+.bold-alternates {
+	/* Montserrat Alternates Bold = 700 */
+	font-weight: 700;
+	font-family: "Montserrat Alternates", "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+.extrabold-alternates {
+	/* Montserrat Alternates Extra Bold = 800 */
+	font-weight: 800;
+	font-family: "Montserrat Alternates", "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+.black-alternates {
+	/* Montserrat Alternates Black = 900 */
+	font-weight: 900;
+	font-family: "Montserrat Alternates", "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+/* @end Montserrat Alternates group */
+
+
+/* @group Montserrat Subrayada
+-------------------------------------------------------------- */
+/* = Weights Montserrat Subrayada  
+-------------------------------------------------------------- */
+
+.regular-subrayada {
+	/* Montserrat Subrayada Regular = 400 */
+	font-weight: 400;
+	font-family: "Montserrat Subrayada", "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+.bold-subrayada {
+	/* Montserrat Subrayada Bold = 700 */
+	font-weight: 700;
+	font-family: "Montserrat Subrayada", "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+/* @end Montserrat Subrayada group */
+
+

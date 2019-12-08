@@ -1,0 +1,25 @@
+.logo {
+    color: black;
+}
+
+body {
+    font-family: 'Montserrat';
+}
+
+.container {
+    width: auto;
+    padding: 0 15px;
+}
+
+.avatar {
+    vertical-align: middle;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+#agradecimentos-voolivre {
+    width: 225px;
+    height: 81px;
+}
+
